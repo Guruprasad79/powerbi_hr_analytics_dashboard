@@ -1,6 +1,6 @@
 ## HR Analytics Dashboard:
 
-- **Introduction:** <br/>
+**Introduction:** <br/>
 Welcome to the HR Analytics Dashboard repository, a powerful tool for analyzing key HR metrics. This dashboard encompasses various analytics on employee presence, WFH trends, attrition rates, and more.
 
 **Project Objective:** <br/>
